@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Giulio Fernandes
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Web`**
 
-   Minha trajetória na área de programação teve início no ensino médio, em 2023, quando cursei Informática. Ao longo dessa formação, construí projetos como desenvolvedor full stack, consolidando posteriormente minha especialização em back-end. Minhas principais tecnologias são JavaScript, PHP e MySQL.
+   Minha trajetória na área de programação teve início no ensino médio, em 2023, quando cursei Informática. Ao longo dessa formação, construí projetos como desenvolvedor web. Minhas principais tecnologias são JavaScript, PHP e MySQL.
 
 ---
 
