@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Minha trajetória na área de programação teve início no ensino médio, em 2023, quando cursei Informática. Ao longo dessa formação, desenvolvi projetos voltados para o desenvolvimento web e, atualmente, estudo e construo aplicações utilizando tecnologias do ecossistema Java e JavaScript.
+Sou Cearense, tenho 19 anos, formado como técnico em informática e atualmente curso Engenharia de Software na Universidade Federal do Ceará.
 
 ---
 
