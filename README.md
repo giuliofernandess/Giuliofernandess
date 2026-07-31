@@ -1,8 +1,6 @@
 # 👩🏻‍💻 Giulio Fernandes
 
-**`Desenvolvedor Web`** 
-
-**`Back End`** 
+**`Desenvolvedor Back-End`**
 
 Minha trajetória na área de programação teve início no ensino médio, em 2023, quando cursei Informática. Ao longo dessa formação, desenvolvi projetos voltados para o desenvolvimento web e, atualmente, estudo e construo aplicações utilizando tecnologias do ecossistema Java e JavaScript.
 
