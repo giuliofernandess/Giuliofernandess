@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Giulio Fernandes
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Full-Stack`**
 
 Sou Cearense, tenho 19 anos, formado como técnico em informática e atualmente curso Engenharia de Software na Universidade Federal do Ceará.
 
